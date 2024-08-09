@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm iSAD</h1>
-<h3 align="center">iOS Application Development Android Application Development Web Application Development Website Development</h3>
+<h3 align="center">iOS Application Development<br> Android Application Development<br> Web Application Development<br> Website Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirx2713&label=Profile%20views&color=0e75b6&style=flat" alt="sirx2713" /> </p>
 
