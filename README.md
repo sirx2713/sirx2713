@@ -6,41 +6,6 @@
 
 [![Spotify](https://novatorem-eight-chi.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
-</div>
-
-<h2 align="center">🎯 Current Focus Areas</h2>
-
-<div align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-javascript
-const iSAD = {
-    pronouns: "he" | "him",
-    code: ["Swift", "Kotlin", "JavaScript", "Python"],
-    askMeAbout: ["app dev", "web dev", "ai", "tech"],
-    technologies: {
-        mobileApp: {
-            ios: ["Swift", "SwiftUI", "UIKit", "CoreML"],
-            android: ["Kotlin", "Java", "Jetpack Compose"]
-        },
-        frontEnd: {
-            js: ["Angular", "React", "Vue"],
-            css: ["bootstrap", "tailwind", "sass"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask"],
-            misc: ["Firebase", "Socket.IO"]
-        },
-        ai: ["TensorFlow", "PyTorch", "CoreML"],
-        databases: ["MongoDB", "MySQL", "SQLite"],
-        cloud: ["AWS", "Google Cloud", "Azure"]
-    },
-    architecture: ["Microservices", "Event-Driven", "Design System Pattern"],
-    currentFocus: "Building AI-Enhanced Mobile Applications",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
 
 <div align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
